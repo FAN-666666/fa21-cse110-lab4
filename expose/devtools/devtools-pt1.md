@@ -1,35 +1,35 @@
-Question 1:
+# Question 1:
 
 citylots.json
 
-Question 2:
+# Question 2:
 
 expose.js
 
-Question 3:
+# Question 3:
 
 11.7MB
 
-Question 4:
+# Question 4:
 
 67ms
 
-Question 5:
+# Question 5:
 
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
 
-Question 6:
+# Question 6:
 
 GitHub.com
 
-Question 7:
+# Question 7:
 
 Tue, 12 Oct 2021 18:38:02 GMT
 
-Question 8:
+# Question 8:
 
 application/json; charset=utf-8
 
-Question 9:
+# Question 9:
 
 fetchData
