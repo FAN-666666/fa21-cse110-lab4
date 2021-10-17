@@ -1,14 +1,14 @@
 # Question 1:
 
-3
+It will print the value of i which is 3, because the for-loop will iterate the input list and increases the value of i for each iteration. The input list has length of 3, so i will be added by 1 for three times from 0 and become 3.
 
 # Question 2:
 
-150
+It will print the value of discountedPrice which is 150, because the variable discountedPrice stores the last dicounted price in the list, which is 300*0.5=150
 
 # Question 3:
 
-150
+It will print the value of finalPrice which is 150, because the variable finalPrice stores the last dicounted price in the list, which is 150
 
 # Question 4:
 
@@ -16,11 +16,11 @@ The function will return a list of discounted price as integers, because the fun
 
 # Question 5:
 
-Error, because the previoud i is defined in the for-loop block, and the current i is not defined at its scope
+Error, because the previous i is defined in the for-loop block, and the current i is not defined at its scope
 
 # Question 6:
 
-Error, because the previoud discountedPrice is defined in the for-loop block, and the current discountedPrice is not defined at its scope
+Error, because the previous discountedPrice is defined in the for-loop block, and the current discountedPrice is not defined at its scope
 
 # Question 7:
 
@@ -28,11 +28,11 @@ Error, because the previoud discountedPrice is defined in the for-loop block, an
 
 # Question 8:
 
-The function will return a list of discounted price as integers, because the function calculate the discounted price of each input price, round them up, and then push them into a list container. The list discounted is correctly defined within its scope by a "let" keyword
+The function will return a list of discounted price as integers, because the function calculates the discounted price of each input price, round them up, and then push them into a list container. The list discounted is correctly defined within its scope by a "let" keyword
 
 # Question 9:
 
-Error, because the previoud i is defined in the for-loop block, and the current i is not defined at its scope
+Error, because the previous i is defined in the for-loop block, and the current i is not defined at its scope
 
 # Question 10:
 
@@ -96,7 +96,7 @@ in part2-question16.js
 
 # Question 17:
 
-The result will be [2,4,6]. Firstly, function modifyArray is directly called by 'modifyArray([1,2,3], doSomething)'. In function modifyArray, the function doSomething gets called three times in the for-loop, and the argument for calling doSomething is each number in [1,2,3]. The doSomething function doubles each argument number and returns back, and then the returned results get pushed into a list called newArray. In the end, function modifyArary returns the newArray variable.
+The result will be [2,4,6]. Firstly, function modifyArray is directly called by 'modifyArray([1,2,3], doSomething)'. In function modifyArray, the function doSomething gets called three times in the for-loop, and the argument for calling doSomething is each number in [1,2,3]. The doSomething function doubles each argument number and returns it back, and then the returned results get pushed into a list called newArray. In the end, function modifyArary returns the newArray variable.
 
 # Question 18:
 
